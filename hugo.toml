@@ -1,4 +1,4 @@
-#baseURL = "https://risotto.joeroe.io"
+baseURL = "https://ambitious-sand-0caa5c40f.4.azurestaticapps.net/"
 theme = "risotto"
 title = "confluence"
 author = "gardeners/1"
@@ -23,7 +23,7 @@ palette = "tokyo-night-dark"
 [params.about]
 title = "confluence"
 description = "writing about tending to our gardens."
-logo = "/images/seedling.svg"
+logo = "images/seedling.svg"
 
 [menu]
 	[[menu.main]]
