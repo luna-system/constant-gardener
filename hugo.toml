@@ -38,6 +38,13 @@ logo = "images/seedling.svg"
 		url = "/reading/"
 		weight = 30
 
+
+[deployment]
+
+	[[deployment.targets]]
+	name = "azure"
+	URL = "azblob://staticwebsite"
+
 [taxonomies]
 category = "categories"
 tag = "tags"
