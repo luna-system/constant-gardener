@@ -23,7 +23,7 @@ palette = "tokyo-night-dark"
 [params.about]
 title = "confluence"
 description = "writing about tending to our gardens."
-logo = "images/seedling.svg"
+logo = "/images/seedling.svg"
 
 [menu]
 	[[menu.main]]
@@ -37,13 +37,6 @@ logo = "images/seedling.svg"
 		name = "reading"
 		url = "/reading/"
 		weight = 30
-
-
-[deployment]
-
-	[[deployment.targets]]
-	name = "azure"
-	URL = "azblob://staticwebsite"
 
 [taxonomies]
 category = "categories"
