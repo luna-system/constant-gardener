@@ -1,7 +1,10 @@
-+++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Posts"
-author = "Hugo Authors"
-description = "Example posts demonstrating hugo's markup features"
-tags = ["index"]
-+++
+---
+title: writing
+author: gardeners/1
+description: essays written by 1
+tags:
+  - index
+menu:
+    main:
+        weight: 10
+---
