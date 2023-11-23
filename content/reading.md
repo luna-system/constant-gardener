@@ -14,3 +14,5 @@ author = "gardeners/1"
 [I Sexually Identify as an Attack Helicopter (The Helicopter Story) - Isabel Fall](https://gwern.net/doc/fiction/science-fiction/2020-01-15-fall-isexuallyidentifyasanattackhelicopter.html)
 
 [Hyper-Stratification and Cybernetic Capital - Aly Chace](https://distort.jp/posts/hyper-stratification-and-cybernetic-capital/)
+
+[Hello From the Wired - n1x](https://theanarchistlibrary.org/library/n1x-hello-from-the-wired)
