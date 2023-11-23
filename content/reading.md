@@ -5,4 +5,8 @@ date = "2023-11-22"
 author = "gardeners/1"
 +++
 
-placeholder
+[A Manifesto for The New Sincerity - Jesse Thorn](https://maximumfun.org/news/manifesto-for-new-sincerity/)
+[Xenofeminism: A Politics for Alienation - Laboria Cuboniks](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/)
+[Hot Allostatic Load - Porptentine](https://thenewinquiry.com/hot-allostatic-load/)
+[I Sexually Identify as an Attack Helicopter (The Helicopter Story) - Isabel Fall](https://gwern.net/doc/fiction/science-fiction/2020-01-15-fall-isexuallyidentifyasanattackhelicopter.html)
+[Hyper-Stratification and Cybernetic Capital - Aly Chace](https://distort.jp/posts/hyper-stratification-and-cybernetic-capital/)
