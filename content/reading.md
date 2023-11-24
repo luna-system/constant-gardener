@@ -16,3 +16,5 @@ author = "gardeners/1"
 [Hyper-Stratification and Cybernetic Capital - Aly Chace](https://distort.jp/posts/hyper-stratification-and-cybernetic-capital/)
 
 [Hello From the Wired - n1x](https://theanarchistlibrary.org/library/n1x-hello-from-the-wired)
+
+[Gender Acceleration: A Blackpaper - n1x](https://vastabrupt.com/2018/10/31/gender-acceleration/)
