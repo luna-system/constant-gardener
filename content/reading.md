@@ -18,3 +18,5 @@ author = "gardeners/1"
 [Hello From the Wired - n1x](https://theanarchistlibrary.org/library/n1x-hello-from-the-wired)
 
 [Gender Acceleration: A Blackpaper - n1x](https://vastabrupt.com/2018/10/31/gender-acceleration/)
+
+[[[ Fanged Poetics ]] : Preliminary Notes on a Dark Conceptualism](https://vastabrupt.com/2018/12/03/fanged-poetics/)
