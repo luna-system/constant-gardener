@@ -20,3 +20,7 @@ author = "gardeners/1"
 [Gender Acceleration: A Blackpaper - n1x](https://vastabrupt.com/2018/10/31/gender-acceleration/)
 
 [[[ Fanged Poetics ]] : Preliminary Notes on a Dark Conceptualism](https://vastabrupt.com/2018/12/03/fanged-poetics/)
+
+[The Broken Teapot - Alex Gorrion, Angustia Celeste, Anonymous](theanarchistlibrary.org/library/anonymous-the-broken-teapot)
+
+[Human Domestication Guide - GlitchyRobo](https://archiveofourown.org/works/45190954/chapters/113686849)
