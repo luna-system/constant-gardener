@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>confluence</title>
+    <link>https://constant.garden/</link>
+    <description>Recent content on confluence</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://constant.garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>context</title>
+      <link>https://constant.garden/context/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://constant.garden/context/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;about&lt;/h2&gt;&#xA;&lt;p&gt;i started writing as a coping mechanism after a major ptsd-fueled breakdown. i believe in a more caring society, and i want to contribute whatever i can to make that happen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;stack&#34;&gt;stack&lt;/h2&gt;&#xA;&lt;p&gt;This website is built using the &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo framework&lt;/a&gt;. It is using a slightly modified version of the &lt;a href=&#34;https://github.com/joeroe/risotto&#34;&gt;risotto hugo theme&lt;/a&gt;. The code repository is hosted on &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt;, and published to the &lt;a href=&#34;https://azure.microsoft.com/&#34;&gt;azure&lt;/a&gt; &lt;a href=&#34;https://learn.microsoft.com/en-us/azure/static-web-apps/overview&#34;&gt;static web apps&lt;/a&gt; service. All parts of this stack are cost-free.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>reading</title>
+      <link>https://constant.garden/reading/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://constant.garden/reading/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://maximumfun.org/news/manifesto-for-new-sincerity/&#34;&gt;A Manifesto for The New Sincerity - Jesse Thorn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/&#34;&gt;Xenofeminism: A Politics for Alienation - Laboria Cuboniks&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://thenewinquiry.com/hot-allostatic-load/&#34;&gt;Hot Allostatic Load - Porptentine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gwern.net/doc/fiction/science-fiction/2020-01-15-fall-isexuallyidentifyasanattackhelicopter.html&#34;&gt;I Sexually Identify as an Attack Helicopter (The Helicopter Story) - Isabel Fall&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://distort.jp/posts/hyper-stratification-and-cybernetic-capital/&#34;&gt;Hyper-Stratification and Cybernetic Capital - Aly Chace&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://theanarchistlibrary.org/library/n1x-hello-from-the-wired&#34;&gt;Hello From the Wired - n1x&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vastabrupt.com/2018/10/31/gender-acceleration/&#34;&gt;Gender Acceleration: A Blackpaper - n1x&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vastabrupt.com/2018/12/03/fanged-poetics/&#34;&gt;[[ Fanged Poetics ]] : Preliminary Notes on a Dark Conceptualism&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;theanarchistlibrary.org/library/anonymous-the-broken-teapot&#34;&gt;The Broken Teapot - Alex Gorrion, Angustia Celeste, Anonymous&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>nest egg</title>
+      <link>https://constant.garden/post/nest-egg/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://constant.garden/post/nest-egg/</guid>
+      <description>&lt;h2 id=&#34;the-nest-was-my-first-real-try-genesis&#34;&gt;the nest was my first real try [GENESIS]&lt;/h2&gt;&#xA;&lt;p&gt;I didn’t know it at the time, but when I was appointed mod for a left-aligned gaming community, I set off on the only dream of legacy I’ve ever had. The funny thing is, I didn’t even know it at the time. It came at a perfect time for me, a conflux of social situations that left me with the time and energy to enact this role properly. So I did.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>infinite growth</title>
+      <link>https://constant.garden/post/infinite-growth/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://constant.garden/post/infinite-growth/</guid>
+      <description>&lt;p&gt;Jenna has been my anchor. She approaches the world with hope despite how impossibly confusing it is. I have never been sure of my place in the world, or what it’s like to feel like I have a purpose, before seeing her model these things in front of me. Watching her meet a tipping point has ultimately caused me to have a paradigm shift.&lt;/p&gt;&#xA;&lt;p&gt;Since early in our relationship, Jenna and I have been absolutely open about our struggles. Having access to viewing things in my life through her lens has been invaluable and has pulled me through several of the most difficult life situations I’ve been in. When I had to manage a divorce from my wholly abusive ex entirely on my own, she was there with encouragement and support. The stumbling blocks that felt like the end of everything could be easily put into perspective with her help. The space for healing and growth that she has given me has been vital to my finding myself in a place where I can breathe today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://constant.garden/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://constant.garden/archives/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

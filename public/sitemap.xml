@@ -2,10 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://constant.garden/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://constant.garden/context/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://constant.garden/reading/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/tags/index/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/post/nest-egg/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/tags/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/post/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/post/infinite-growth/</loc>
+    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://constant.garden/categories/</loc>
+  </url><url>
+    <loc>https://constant.garden/series/</loc>
   </url>
 </urlset>
