@@ -1,7 +1,7 @@
 +++
 title = "reading"
 description = "a selection of other works that have influenced my writing"
-date = "2023-11-22"
+date = "2025-08-13T05:47:00.935Z"
 author = "gardeners/1"
 +++
 
