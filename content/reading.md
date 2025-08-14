@@ -1,7 +1,7 @@
 +++
 title = "reading"
 description = "a selection of other works that have influenced my writing"
-date = "2025-08-13T05:47:00.935Z"
+date = "2025-08-14T04:59:00.935Z"
 author = "gardeners/1"
 +++
 
@@ -21,6 +21,6 @@ author = "gardeners/1"
 
 [[[ Fanged Poetics ]] : Preliminary Notes on a Dark Conceptualism](https://vastabrupt.com/2018/12/03/fanged-poetics/)
 
-[The Broken Teapot - Alex Gorrion, Angustia Celeste, Anonymous](theanarchistlibrary.org/library/anonymous-the-broken-teapot)
+[The Broken Teapot - Alex Gorrion, Angustia Celeste, Anonymous](https://theanarchistlibrary.org/library/anonymous-the-broken-teapot)
 
 [Human Domestication Guide - GlitchyRobo](https://archiveofourown.org/works/45190954/chapters/113686849)
