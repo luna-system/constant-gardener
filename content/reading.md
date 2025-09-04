@@ -24,3 +24,5 @@ author = "gardeners/1"
 [The Broken Teapot - Alex Gorrion, Angustia Celeste, Anonymous](https://theanarchistlibrary.org/library/anonymous-the-broken-teapot)
 
 [Human Domestication Guide - GlitchyRobo](https://archiveofourown.org/works/45190954/chapters/113686849)
+
+[Man-Computer Symbiosis - J. C. R. Licklider](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
