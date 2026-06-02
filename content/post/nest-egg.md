@@ -7,7 +7,7 @@ description: reflections on the implementation of models
 
 ## the nest was my first real try [GENESIS]
 
-I didn’t know it at the time, but when I was appointed mod for a left-aligned gaming community, I set off on the only dream of legacy I’ve ever had. The funny thing is, I didn’t even know it at the time. It came at a perfect time for me, a conflux of social situations that left me with the time and energy to enact this role properly. So I did.
+When I was appointed mod for a left-aligned gaming community, I set off on the only dream of legacy I’ve ever had. The funny thing is, I didn’t even know it at the time. It came at a perfect time for me, a conflux of social situations that left me with the time and energy to enact this role properly. So I did.
 
 Some time later, that community died. A few of us picked up its corpse, gave it a ritual burial, and let the decomposition feed a new community. Not only that, but a new kind of community. One built on all the ideas of care that I had absorbed over the years. It was built on social justice, but gentle. It was built on queer safety, but there was always room for non-queer people to tend to the seeds of queerness that many already had planted without knowing.
 
