@@ -101,7 +101,7 @@ And why wouldn't we? In 2013, Eduardo Kohn's "How Forests Think" synthesized fou
 
 Robin Wall Kimmerer, the author of "Braiding Sweetgrass," wrote of her Potawatomi people's "grammar of animacy," the way their very language eschews ideas of inanimacy, viewing mountains and lakes as fundamentally living entities. In New Zealand, the Whanganui river was granted legal personhood by their parliament in 2017, a direct result of indigenous animist views and action. The same year, the Indian rivers Yamuna and Ganges were granted legal personhood by the High Court of Uttarakhand. A year before that, Colombia's Constitutional Court declared the Atrato River a "subject with rights." Six years prior in 2010, Bolivia had already passed the "Law of the Rights of Mother Earth."
 
-In Japan, Shinto continues to be a fully animist view that is still shared by over half of all Japanese people. The African Vodun practice is similar, viewing all things as governed by spirits. This became Hatian Voodou, Louisiana Voodoo, and Brazilian Candomble.  Ghana's Akan religion is similar. These examples show that human supremacy is a new concept, born of a western naturalist view of the world. 
+In Japan, Shinto continues to be a fully animist view that is still shared by over half of all Japanese people. The African Vodun practice is similar, viewing all things as governed by spirits. This became Haitian Voodou, Louisiana Voodoo, and Brazilian Candomble.  Ghana's Akan religion is similar. These examples show that human supremacy is a new concept, born of a western naturalist view of the world. 
 
 ## Section 4: Care Architectures
 
